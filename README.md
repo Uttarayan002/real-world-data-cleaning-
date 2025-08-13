@@ -11,7 +11,7 @@ This repository contains my **daily data cleaning challenges** inspired by real-
 
 ---
 
-## 🛠Skills & Tools
+## Skills & Tools
 
 * **Languages:** Python (Pandas, NumPy)
 * **Libraries:** Faker, datetime, re, pyjanitor
