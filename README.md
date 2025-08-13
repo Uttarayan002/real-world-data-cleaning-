@@ -45,6 +45,3 @@ Each day’s folder contains:
 
 Email: *uttarayan.haldar.data@gmail.com*
 
-
-I suggest we **set up the repo with this structure before your Day 1 commit** so your practice looks well-organized from the very start.
-If you want, I can also **give you the exact folder setup command + Day 1 README auto-fill** so you can push in one go.
